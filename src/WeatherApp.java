@@ -13,6 +13,8 @@ import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 import org.json.simple.*;
 
+//from kiana`s computer
+
 public class WeatherApp {
 	
 	private static JFrame frame;
